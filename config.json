@@ -1,6 +1,6 @@
 {
-  "source": "https://6800.kstore.vip/fish.json",
   "output": "fish.json",
+
   "rename": {
     "Douban": "✧片单┆精选✧",
     "ALLLive": "✧星河┆共影✧",
@@ -16,7 +16,7 @@
     "Rebo": "✧热播┆影视✧",
     "Guazi": "✧瓜子┆影视✧",
 
-     "DJHub": "✧短剧┆聚合✧",
+    "DJHub": "✧短剧┆聚合✧",
     "HonHon": "✧红红┆短剧✧",
 
     "XingHui": "✧星绘┆动漫✧",
@@ -30,7 +30,9 @@
     "aiting": "✧爱听┆音乐✧",
     "Music24bit": "✧无损┆音乐✧"
   },
-  "order": [
+
+
+  "sites_order": [
     "Douban",
     "ALLLive",
 
