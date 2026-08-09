@@ -21,6 +21,12 @@
       }
     },
     {
+      "key": "FishConfig",
+      "name": "✧设置┆中心✧",
+      "type": 3,
+      "api": "csp_FishConfig"
+    },
+    {
       "key": "ALLLive",
       "name": "✧星河┆共影✧",
       "type": 3,
